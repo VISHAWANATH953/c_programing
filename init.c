@@ -7,3 +7,7 @@ void main (){
     printf("I love\t = \"code\"\n");
     printf("backslash \\");
 }
+
+/*Hey, i am vishwanath kokare,
+  I am student of Itm colleage
+*/
