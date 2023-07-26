@@ -1,4 +1,4 @@
-#include <std.io>
+#include<stdio.h>
 
 void main(){
 
@@ -8,5 +8,6 @@ void main(){
 
     // if we add float to integers it will automatically converts to integers
     int b = 9.99; // results 9
+    
 
 }
