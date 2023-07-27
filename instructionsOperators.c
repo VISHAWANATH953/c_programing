@@ -18,5 +18,16 @@ void main(){
     // associativity (for same precedence)
     // Left 2 Right
 
+    //relational operators
+    // ==,>,>=,<,<=,!=
+    //if output 1 means true
+    //else output 0 means false
+    //in we have not have true or flase
+    printf("%d \n", 3==3);
+    printf("%d \n", 3!=2);
+    printf("%d \n", 3>4);
+    printf("%d \n", 4<3);
+    printf("%d \n" ,5<=5);
+    printf("%d \n", 6>=5);
 
 }
