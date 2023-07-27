@@ -30,4 +30,9 @@ void main(){
     printf("%d \n" ,5<=5);
     printf("%d \n", 6>=5);
 
+    ////logical operators
+    //&&,||,!
+    printf("%d \n", 3==3 && 4==4); //foucs on false
+    printf("%d \n", 3==3 || 3==4); //foucs on true
+    printf("%d \n", !(5<1)); //flip that logic
 }
