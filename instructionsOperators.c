@@ -35,4 +35,14 @@ void main(){
     printf("%d \n", 3==3 && 4==4); //foucs on false
     printf("%d \n", 3==3 || 3==4); //foucs on true
     printf("%d \n", !(5<1)); //flip that logic
+
+    ////assignment operators
+    //+=,-=,*=,/=,%=
+    printf("%d -",a);
+    a += 5;
+    printf("%d",a);
+
+    printf("%d -",b);
+    b -= 1;
+    printf("%d -",b);
 }
