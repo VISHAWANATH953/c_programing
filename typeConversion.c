@@ -8,6 +8,14 @@ void main(){
 
     // if we add float to integers it will automatically converts to integers
     int b = 9.99; // results 9
+
+
+    ////This are explicit conversions
+    //means we can convert it own forcefully
+    int c = (int) 1.999999; //it doesen't roundup it's cutes
+
+
+
     
 
 }
