@@ -107,5 +107,12 @@ void main()
     //     printf("%d \n", infinite);
     // }
 
+    ////while
+    int w = 1;
+    while (w<=5)
+    {
+       printf("Hello Wordl \n");
+       w++;
+    }
     
 }
