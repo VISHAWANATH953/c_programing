@@ -85,4 +85,10 @@ void main()
     for(int i =1;i<=1000;i =i+1){
         printf("%d \n",i);
     }
+    //increment operator
+    //i++ use then increase (post increment)
+    //++i increase then use (pre increment)
+    //decrement operator
+    //i-- use the decrement (post decrement)
+    //--i decrement the use (pre decrement)
 }
