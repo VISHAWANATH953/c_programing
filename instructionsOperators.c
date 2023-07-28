@@ -115,4 +115,10 @@ void main()
        w++;
     }
     
+    //do while loop
+    do{
+        printf("%d \n",w);
+        w++;
+    }while(w<=5); 
+    
 }
