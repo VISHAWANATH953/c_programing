@@ -91,4 +91,21 @@ void main()
     //decrement operator
     //i-- use the decrement (post decrement)
     //--i decrement the use (pre decrement)
+    
+    //float
+    for(float f=1.0; f<=5.0;f++){
+        printf("%f \n", f);
+    }
+    
+    //char
+    for(char ch = 'A'; ch <= 'Z'; ch++){
+        printf("%c \n", ch);
+    }
+
+    //infinite loop
+    // for(int infinite = 1; ;i++){
+    //     printf("%d \n", infinite);
+    // }
+
+    
 }
